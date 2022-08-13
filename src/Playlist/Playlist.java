@@ -22,7 +22,7 @@ public class Playlist {
 	    desertIslandPlaylist.add("Wow");
 	    desertIslandPlaylist.add("int");
 	    desertIslandPlaylist.add("string");
-	    desertIslandPlaylist.add("Bye");
+	    desertIslandPlaylist.add("ByeBye");
 	    
 	    
 	    System.out.println(desertIslandPlaylist.size());
